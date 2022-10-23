@@ -1,2 +1,3 @@
 REPERTH 1.0 Privacy Policy
+--------------------------
 The REPERTH 1.0 App does not access, store or share any personal or location data from your device.
